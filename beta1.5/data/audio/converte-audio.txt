@@ -1,0 +1,4 @@
+ffmpeg -i guitarra_battletoads.wav -f mp3 -ab 192 guitarra_battletoads.mp3
+
+site para converter mp3 para ogg
+http://www.online-convert.com
